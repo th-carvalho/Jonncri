@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JONNCRI — Exclusividade em um só lugar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#050505;
+    --bg-panel:#0b0b0b;
+    --bg-card:#0f0f0f;
+    --bar-beige:#EDE6D6;
+    --bar-beige-text:#1a1712;
+    --text:#F6F4F0;
+    --text-muted:#93897a;
+    --gold:#C9A876;
+    --gold-dim:#a88c62;
+    --border:rgba(246,244,240,0.09);
+    --border-gold:rgba(201,168,118,0.35);
+  }
+
+  *{margin:0;padding:0;box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Inter',system-ui,sans-serif;
+    font-weight:400;
+    -webkit-font-smoothing:antialiased;
+    overflow-x:hidden;
+  }
+  img{max-width:100%;display:block;}
+  h1,h2,h3,.display{font-family:'Space Grotesk',system-ui,sans-serif;}
+  a{color:inherit;text-decoration:none;}
+  button{font-family:inherit;cursor:pointer;background:none;border:none;color:inherit;}
+  ::selection{background:var(--gold);color:#050505;}
+  :focus-visible{outline:2px solid var(--gold);outline-offset:3px;}
+  .wrap{max-width:1360px;margin:0 auto;padding:0 40px;}
+
+  /* ---------- Announcement bar ---------- */
+  .announce{
+    background:var(--bar-beige);
+    color:var(--bar-beige-text);
+    height:38px;
+    display:flex;align-items:center;justify-content:center;
+    overflow:hidden;position:relative;
+    font-size:12.5px;letter-spacing:.04em;
+  }
+  .announce-track{
+    display:flex;flex-direction:column;align-items:center;
+    transition:transform .6s cubic-bezier(.65,0,.35,1);
+  }
+  .announce-track span{
+    height:38px;display:flex;align-items:center;justify-content:center;
+    white-space:nowrap;font-weight:500;
+  }
+
+  /* ---------- Header ---------- */
+  header{
+    position:sticky;top:0;z-index:100;
+    background:rgba(5,5,5,0.92);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--border);
+  }
+  .header-inner{
+    display:grid;
+    grid-template-columns:1fr auto 1fr;
+    grid-template-areas:"search logo actions";
+    align-items:center;
+    height:90px;gap:24px;
+  }
+  .logo{
+    grid-area:logo;
+    display:flex;align-items:center;
+    justify-self:center;
+  }
+  .logo img{height:30px;width:auto;}
+  .search-field{grid-area:search;}
+  .header-actions{grid-area:actions;}
+
+  .search-field{
+    justify-self:center;width:100%;max-width:420px;position:relative;
+  }
+  .search-field input{
+    width:100%;background:var(--bg-card);border:1px solid var(--border);
+    color:var(--text);font-size:13.5px;
+    padding:11px 40px 11px 16px;border-radius:2px;
+    transition:border-color .25s ease;
+  }
+  .search-field input::placeholder{color:var(--text-muted);}
+  .search-field input:focus{border-color:var(--border-gold);}
+  .search-field svg{
+    position:absolute;right:13px;top:50%;transform:translateY(-50%);
+    width:16px;height:16px;stroke:var(--text-muted);pointer-events:none;
+  }
+
+  .header-actions{
+    justify-self:end;display:flex;align-items:center;gap:22px;
+  }
+  .icon-btn{
+    display:flex;align-items:center;gap:7px;
+    font-size:12.5px;letter-spacing:.03em;color:var(--text-muted);
+    transition:color .2s ease;position:relative;
+  }
+  .icon-btn:hover{color:var(--text);}
+  .icon-btn svg{width:19px;height:19px;stroke:currentColor;}
+  .cart-count{
+    position:absolute;top:-7px;right:-9px;
+    background:var(--gold);color:#050505;
+    font-size:9.5px;font-weight:700;
+    width:15px;height:15px;border-radius:50%;
+    display:flex;align-items:center;justify-content:center;
+  }
+
+  /* ---------- Category nav ---------- */
+  .catnav{border-bottom:1px solid var(--border);background:var(--bg);}
+  .catnav-inner{display:flex;align-items:center;gap:10px;}
+  .catnav-scroll{
+    display:flex;gap:34px;overflow-x:auto;scrollbar-width:none;
+    padding:15px 4px;scroll-behavior:smooth;
+  }
+  .catnav-scroll::-webkit-scrollbar{display:none;}
+  .catnav-scroll a{
+    white-space:nowrap;font-size:13px;letter-spacing:.05em;
+    color:var(--text-muted);padding-bottom:4px;
+    border-bottom:1px solid transparent;
+    transition:color .2s ease, border-color .2s ease;
+  }
+  .catnav-scroll a:hover, .catnav-scroll a.active{color:var(--text);border-color:var(--gold);}
+  .catnav-arrow{
+    flex:0 0 auto;width:30px;height:30px;
+    display:flex;align-items:center;justify-content:center;
+    border:1px solid var(--border);color:var(--text-muted);border-radius:50%;
+    transition:border-color .2s ease, color .2s ease;
+  }
+  .catnav-arrow:hover{border-color:var(--gold);color:var(--gold);}
+  .catnav-arrow svg{width:13px;height:13px;stroke:currentColor;}
+
+  /* ---------- Hero Slider ---------- */
+  .hero{position:relative;overflow:hidden;background:var(--bg);user-select:none;}
+  .hero-track{display:flex;transition:transform .7s cubic-bezier(.65,0,.35,1);}
+  .hero-slide{flex:0 0 100%;position:relative;cursor:pointer;}
+  .hero-slide img{width:100%;height:auto;display:block;}
+  .hero-btn{
+    position:absolute;top:50%;transform:translateY(-50%);
+    z-index:10;width:44px;height:44px;
+    background:rgba(5,5,5,0.55);
+    border:1px solid rgba(246,244,240,0.18);
+    border-radius:50%;
+    display:flex;align-items:center;justify-content:center;
+    backdrop-filter:blur(6px);
+    transition:background .2s ease, border-color .2s ease;
+    color:var(--text);
+  }
+  .hero-btn:hover{background:rgba(201,168,118,0.25);border-color:var(--border-gold);}
+  .hero-btn svg{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+  .hero-btn-prev{left:18px;}
+  .hero-btn-next{right:18px;}
+  .hero-dots{
+    position:absolute;bottom:14px;left:50%;transform:translateX(-50%);
+    display:flex;gap:7px;z-index:10;
+  }
+  .hero-dot{
+    width:7px;height:7px;border-radius:50%;
+    background:rgba(246,244,240,0.35);
+    border:none;padding:0;
+    transition:background .25s ease, transform .25s ease;
+  }
+  .hero-dot.active{background:var(--gold);transform:scale(1.25);}
+
+  /* ---------- Section heading ---------- */
+  .section-head{text-align:center;margin-bottom:56px;}
+  .section-head h2{
+    font-size:26px;font-weight:700;letter-spacing:.08em;
+    text-transform:uppercase;display:inline-block;
+    padding-bottom:16px;position:relative;
+  }
+  .section-head h2::after{
+    content:"";position:absolute;bottom:0;left:50%;transform:translateX(-50%);
+    width:40px;height:2px;background:var(--gold);
+  }
+  .section-head p{
+    margin-top:16px;color:var(--text-muted);
+    font-size:14.5px;letter-spacing:.03em;
+  }
+
+  /* ---------- Products ---------- */
+  .products{padding:110px 0 120px;}
+  .grid{
+    display:grid;grid-template-columns:repeat(4,1fr);gap:22px;
+  }
+  .card{
+    background:var(--bg-card);border:1px solid var(--border);
+    display:flex;flex-direction:column;
+    transition:border-color .3s ease, transform .3s ease;
+  }
+  .card:hover{border-color:var(--border-gold);transform:translateY(-3px);}
+  .card-media{
+    position:relative;aspect-ratio:3/4;
+    background:linear-gradient(160deg,#141414,#0a0a0a);
+    display:flex;align-items:center;justify-content:center;
+    overflow:hidden;
+  }
+  .card-media img{
+    position:absolute;inset:0;width:100%;height:100%;
+    object-fit:cover;object-position:center top;
+    transition:transform .5s ease;
+  }
+  .card:hover .card-media img{transform:scale(1.04);}
+  .badge{
+    position:absolute;top:14px;left:14px;
+    background:var(--gold);color:#050505;
+    font-size:11px;font-weight:700;letter-spacing:.03em;
+    padding:5px 10px;border-radius:2px;z-index:2;
+  }
+  .card-info{padding:20px 20px 22px;}
+  .card-cat{font-size:11px;letter-spacing:.06em;color:var(--text-muted);text-transform:uppercase;}
+  .card-name{
+    margin-top:6px;font-size:14.5px;font-weight:500;
+    font-family:'Space Grotesk',sans-serif;line-height:1.3;
+  }
+  .card-price{margin-top:12px;display:flex;align-items:center;gap:10px;}
+  .price-old{font-size:12.5px;color:var(--text-muted);text-decoration:line-through;}
+  .price-new{font-size:15px;font-weight:600;color:var(--gold);}
+
+  /* ---------- Footer ---------- */
+  .footer{
+    border-top:1px solid var(--border);
+    padding:32px 0;
+    text-align:center;
+    font-size:13px;
+    color:var(--text-muted);
+    letter-spacing:.04em;
+  }
+
+  /* ---------- Cookie banner ---------- */
+  .cookie-banner{
+    position:fixed;bottom:0;left:0;right:0;z-index:200;
+    background:var(--bg-panel);border-top:1px solid var(--border);
+    padding:18px 40px;
+    display:flex;align-items:center;justify-content:space-between;gap:24px;
+    transform:translateY(100%);transition:transform .45s cubic-bezier(.65,0,.35,1);
+    flex-wrap:wrap;
+  }
+  .cookie-banner.show{transform:translateY(0);}
+  .cookie-banner p{font-size:13px;color:var(--text-muted);max-width:640px;line-height:1.55;}
+  .cookie-btns{display:flex;gap:12px;flex-shrink:0;}
+  .cookie-btn{
+    padding:9px 22px;font-size:12.5px;font-weight:600;
+    letter-spacing:.05em;border-radius:2px;
+    transition:background .2s ease, color .2s ease;
+  }
+  .cookie-btn-accept{background:var(--gold);color:#050505;}
+  .cookie-btn-accept:hover{background:#ddc196;}
+  .cookie-btn-decline{border:1px solid var(--border);color:var(--text-muted);}
+  .cookie-btn-decline:hover{border-color:var(--border-gold);color:var(--text);}
+
+  /* ---------- WhatsApp float ---------- */
+  .wa-float{
+    position:fixed;bottom:28px;right:28px;z-index:150;
+    width:52px;height:52px;border-radius:50%;
+    background:#25D366;
+    display:flex;align-items:center;justify-content:center;
+    box-shadow:0 4px 20px rgba(37,211,102,0.4);
+    transition:transform .25s ease, box-shadow .25s ease;
+  }
+  .wa-float:hover{transform:scale(1.08);box-shadow:0 6px 28px rgba(37,211,102,0.55);}
+  .wa-float svg{width:28px;height:28px;fill:#fff;}
+
+  /* ---------- Responsive ---------- */
+  @media(max-width:1024px){
+    .grid{grid-template-columns:repeat(3,1fr);}
+    .wrap{padding:0 24px;}
+  }
+  @media(max-width:768px){
+    .header-inner{grid-template-columns:auto 1fr auto;height:64px;}
+    .search-field{max-width:none;}
+    .logo img{height:32px;}
+    .grid{grid-template-columns:repeat(2,1fr);gap:14px;}
+    .card-info{padding:14px 14px 16px;}
+    .card-name{font-size:13.5px;}
+    .products{padding:70px 0 80px;}
+    .cookie-banner{padding:16px 20px;}
+    .wa-float{bottom:18px;right:18px;width:46px;height:46px;}
+    .wa-float svg{width:24px;height:24px;}
+    .hero-btn{width:36px;height:36px;}
+    .hero-btn svg{width:14px;height:14px;}
+  }
+</style>
+</head>
+<body>
+
+  <!-- Announcement bar -->
+  <div class="announce">
+    <div class="announce-track" id="announceTrack">
+      <span>🚚 Frete grátis em compras acima de R$ 479,90</span>
+      <span>💳 Parcele em até 6x sem juros nos cartões</span>
+      <span>🔄 Troca facilitada em até 7 dias</span>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header>
+    <div class="wrap">
+      <div class="header-inner">
+
+        <a href="#" class="logo" aria-label="JONNCRI — início">
+          <img src="img/Gemini_Generated_Image_1w2cv91w2cv91w2c.jpg" alt="JONNCRI">
+        </a>
+
+        <div class="search-field">
+          <input type="search" placeholder="O que você procura?">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        </div>
+
+        <div class="header-actions">
+          <a href="#" class="icon-btn" aria-label="Minha conta">
+            <svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+            <span>Entrar</span>
+          </a>
+          <a href="#" class="icon-btn" aria-label="Carrinho">
+            <svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+            <span class="cart-count">0</span>
+          </a>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Category nav -->
+    <div class="catnav">
+      <div class="wrap">
+        <div class="catnav-inner">
+          <button class="catnav-arrow" id="catLeft" aria-label="Rolar categorias para a esquerda">
+            <svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
+          </button>
+          <div class="catnav-scroll" id="catScroll">
+            <a href="#colecao" class="active">Todas as peças</a>
+            <a href="#colecao">Camisas</a>
+            <a href="#colecao">Camisetas</a>
+            <a href="#colecao">Regatas</a>
+            <a href="#colecao">Shorts</a>
+            <a href="#colecao">Jeans</a>
+            <a href="#colecao">Acessórios</a>
+            <a href="#colecao">Bonés</a>
+            <a href="#colecao">Edição limitada</a>
+          </div>
+          <button class="catnav-arrow" id="catRight" aria-label="Rolar categorias para a direita">
+            <svg viewBox="0 0 24 24" fill="none" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Slider -->
+  <section class="hero" id="hero">
+    <div class="hero-track" id="heroTrack">
+      <div class="hero-slide">
+        <img src="img/IMG_2492.PNG" alt="Bem-vindo à Jonncri — Aniversário Jonncri">
+      </div>
+      <div class="hero-slide">
+        <img src="img/IMG_2493.PNG" alt="Grupo VIP Jonncri — Fique por dentro de todas as novidades">
+      </div>
+    </div>
+    <button class="hero-btn hero-btn-prev" id="heroPrev" aria-label="Slide anterior">
+      <svg viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg>
+    </button>
+    <button class="hero-btn hero-btn-next" id="heroNext" aria-label="Próximo slide">
+      <svg viewBox="0 0 24 24"><path d="M9 18l6-6-6-6"/></svg>
+    </button>
+    <div class="hero-dots" id="heroDots">
+      <button class="hero-dot active" data-index="0" aria-label="Slide 1"></button>
+      <button class="hero-dot" data-index="1" aria-label="Slide 2"></button>
+    </div>
+  </section>
+
+  <!-- Products -->
+  <section class="products" id="colecao">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Coleção em destaque</h2>
+        <p>Novas chegadas, em edição limitada</p>
+      </div>
+
+      <div class="grid">
+
+        <div class="card">
+          <div class="card-media">
+            <img src="img/IMG_1925.PNG" alt="Polo Gucci">
+          </div>
+          <div class="card-info">
+            <div class="card-cat">Camisas</div>
+            <div class="card-name">Polo Gucci — 3 Cores</div>
+            <div class="card-price"><span class="price-new">R$ 489</span></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-media">
+            <img src="img/IMG_2108.PNG" alt="Camiseta Lacoste Sport">
+          </div>
+          <div class="card-info">
+            <div class="card-cat">Camisetas</div>
+            <div class="card-name">Camiseta Lacoste Sport</div>
+            <div class="card-price"><span class="price-new">R$ 320</span></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-media">
+            <span class="badge">-20%</span>
+            <img src="img/IMG_1275.PNG" alt="Shorts Adidas Bege">
+          </div>
+          <div class="card-info">
+            <div class="card-cat">Shorts</div>
+            <div class="card-name">Shorts Adidas 3 Listras Bege</div>
+            <div class="card-price"><span class="price-old">R$ 380</span><span class="price-new">R$ 304</span></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-media">
+            <img src="img/IMG_1278.PNG" alt="Shorts Adidas Branco">
+          </div>
+          <div class="card-info">
+            <div class="card-cat">Shorts</div>
+            <div class="card-name">Shorts Adidas 3 Listras Branco</div>
+            <div class="card-price"><span class="price-new">R$ 380</span></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-media">
+            <span class="badge">Novo</span>
+            <img src="img/IMG_2065.JPEG" alt="Regata Adidas Azul" style="object-position:center center;">
+          </div>
+          <div class="card-info">
+            <div class="card-cat">Regatas</div>
+            <div class="card-name">Regata Adidas Aeroready Azul</div>
+            <div class="card-price"><span class="price-new">R$ 229</span></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-media">
+            <img src="img/IMG_2063.PNG" alt="Regatas Adidas Coleção">
+          </div>
+          <div class="card-info">
+            <div class="card-cat">Regatas</div>
+            <div class="card-name">Regata Adidas — 6 Cores</div>
+            <div class="card-price"><span class="price-new">R$ 229</span></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-media">
+            <span class="badge">Exclusivo</span>
+            <img src="img/IMG_2404.PNG" alt="Boné Jonncri EST 2019" style="object-position:center center;">
+          </div>
+          <div class="card-info">
+            <div class="card-cat">Acessórios</div>
+            <div class="card-name">Boné Jonncri EST 2019</div>
+            <div class="card-price"><span class="price-new">R$ 179</span></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-media">
+            <img src="img/IMG_2345.PNG" alt="Short Jeans Destroyed">
+          </div>
+          <div class="card-info">
+            <div class="card-cat">Jeans</div>
+            <div class="card-name">Short Jeans Destroyed</div>
+            <div class="card-price"><span class="price-new">R$ 259</span></div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="wrap">JONNCRI © 2026 — Exclusividade em um só lugar, desde 2019.</div>
+  </footer>
+
+  <!-- Cookie banner -->
+  <div class="cookie-banner" id="cookieBanner">
+    <p>Usamos cookies para melhorar sua experiência. Ao continuar navegando, você concorda com nossa política de privacidade.</p>
+    <div class="cookie-btns">
+      <button class="cookie-btn cookie-btn-accept" id="cookieAccept">Aceitar</button>
+      <button class="cookie-btn cookie-btn-decline" id="cookieDecline">Recusar</button>
+    </div>
+  </div>
+
+  <!-- WhatsApp float -->
+  <a class="wa-float" href="https://wa.me/5583900000000?text=Ol%C3%A1%2C%20vim%20do%20site%20da%20JONNCRI" target="_blank" rel="noopener" aria-label="Falar no WhatsApp">
+    <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.123.554 4.117 1.528 5.845L.057 23.155c-.077.31.212.588.52.503l5.43-1.425A11.95 11.95 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.818a9.817 9.817 0 0 1-5.013-1.374l-.359-.214-3.72.976.994-3.633-.234-.374A9.818 9.818 0 0 1 2.182 12C2.182 6.57 6.57 2.182 12 2.182c5.43 0 9.818 4.388 9.818 9.818 0 5.43-4.388 9.818-9.818 9.818z"/></svg>
+  </a>
+
+<script>
+  // Rotating announcement bar
+  (function(){
+    const track = document.getElementById('announceTrack');
+    const items = track.children.length;
+    let i = 0;
+    setInterval(() => {
+      i = (i + 1) % items;
+      track.style.transform = `translateY(-${i * 38}px)`;
+    }, 3400);
+  })();
+
+  // Category nav scroll arrows
+  (function(){
+    const scroller = document.getElementById('catScroll');
+    document.getElementById('catLeft').addEventListener('click', () => scroller.scrollBy({left:-220, behavior:'smooth'}));
+    document.getElementById('catRight').addEventListener('click', () => scroller.scrollBy({left:220, behavior:'smooth'}));
+    const links = scroller.querySelectorAll('a');
+    links.forEach(link => link.addEventListener('click', () => {
+      links.forEach(l => l.classList.remove('active'));
+      link.classList.add('active');
+    }));
+  })();
+
+  // Hero slider
+  (function(){
+    const track = document.getElementById('heroTrack');
+    const dots = document.querySelectorAll('.hero-dot');
+    const total = document.querySelectorAll('.hero-slide').length;
+    let current = 0;
+    let timer;
+
+    function goTo(index){
+      current = (index + total) % total;
+      track.style.transform = `translateX(-${current * 100}%)`;
+      dots.forEach((d, i) => d.classList.toggle('active', i === current));
+    }
+
+    function startTimer(){
+      clearInterval(timer);
+      timer = setInterval(() => goTo(current + 1), 5000);
+    }
+
+    document.getElementById('heroPrev').addEventListener('click', () => { goTo(current - 1); startTimer(); });
+    document.getElementById('heroNext').addEventListener('click', () => { goTo(current + 1); startTimer(); });
+    dots.forEach(dot => dot.addEventListener('click', () => { goTo(+dot.dataset.index); startTimer(); }));
+
+    let startX = 0;
+    track.addEventListener('touchstart', e => { startX = e.touches[0].clientX; }, {passive:true});
+    track.addEventListener('touchend', e => {
+      const dx = e.changedTouches[0].clientX - startX;
+      if (Math.abs(dx) > 40) { goTo(dx < 0 ? current + 1 : current - 1); startTimer(); }
+    }, {passive:true});
+
+    startTimer();
+  })();
+
+  // Cookie consent
+  (function(){
+    const banner = document.getElementById('cookieBanner');
+    let already = false;
+    try { already = localStorage.getItem('jonncri_cookie_consent'); } catch(e) {}
+    if (!already) { setTimeout(() => banner.classList.add('show'), 900); }
+    function resolve(value){
+      banner.classList.remove('show');
+      try { localStorage.setItem('jonncri_cookie_consent', value); } catch(e) {}
+    }
+    document.getElementById('cookieAccept').addEventListener('click', () => resolve('accepted'));
+    document.getElementById('cookieDecline').addEventListener('click', () => resolve('declined'));
+  })();
+</script>
+
+</body>
+</html>
