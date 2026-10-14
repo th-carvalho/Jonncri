@@ -1,0 +1,3523 @@
+[
+ {
+  "id": 1131,
+  "nome": "BERMUDA TH",
+  "codigo": "7837763",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "TH",
+  "preco": 79.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4973,
+    "cor": "Branca",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791253417/lucromais/estoque/fotos/EFA769A7-8BAD-4A09-A06A-1AB54D1CE45F_1791253417378.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791253538/lucromais/estoque/fotos/C83AFC25-777B-4B08-9EC5-ECC0B07DF05E_1791253538541.png"
+    ]
+   },
+   {
+    "id": 4974,
+    "cor": "Branca",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4972,
+    "cor": "Branca",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1130,
+  "nome": "BERMUDA TH",
+  "codigo": "7838763",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "TH",
+  "preco": 79.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4969,
+    "cor": "Vermelho",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791252291/lucromais/estoque/fotos/D51B05EA-BB53-4E77-989E-E363FF5E5B28_1791252291189.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791253329/lucromais/estoque/fotos/D73987CE-180A-4E1B-B89C-24702DFFA76D_1791253329251.jpg"
+    ]
+   },
+   {
+    "id": 4970,
+    "cor": "Vermelho",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4968,
+    "cor": "Vermelho",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1129,
+  "nome": "BERMUDA TH",
+  "codigo": "783873",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "TH",
+  "preco": 79.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4965,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791252186/lucromais/estoque/fotos/F8A20F39-E659-4403-A2F9-F240DD7D432D_1791252186339.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791252205/lucromais/estoque/fotos/68B7A79E-AB8D-4C26-B21C-0B33E587CABB_1791252205673.png"
+    ]
+   },
+   {
+    "id": 4964,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4966,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1128,
+  "nome": "BONÉS NY",
+  "codigo": "782763",
+  "tipo": "Outro",
+  "genero": "Masculino",
+  "marca": "NY",
+  "preco": 64.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4961,
+    "cor": "Preto c/ Branco",
+    "tamanho": "Tradicional",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791251303/lucromais/estoque/fotos/IMG_3152_1791251302914.jpg"
+    ]
+   },
+   {
+    "id": 4963,
+    "cor": "Branco",
+    "tamanho": "Tradicional",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791251353/lucromais/estoque/fotos/IMG_3150_1791251353007.jpg"
+    ]
+   },
+   {
+    "id": 4962,
+    "cor": "Verde militar",
+    "tamanho": "Tradicional",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791251321/lucromais/estoque/fotos/IMG_3151_1791251321169.jpg"
+    ]
+   },
+   {
+    "id": 4960,
+    "cor": "Preto",
+    "tamanho": "Tradicional",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791251260/lucromais/estoque/fotos/IMG_3153_1791251260275.jpg"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1127,
+  "nome": "BERMUDA SUMMER",
+  "codigo": "7828773",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "Summer",
+  "preco": 99.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4958,
+    "cor": "Azul bebê",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4959,
+    "cor": "Azul bebê",
+    "tamanho": "Gg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4957,
+    "cor": "Azul bebê",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250791/lucromais/estoque/fotos/28C7F212-A745-4ADB-9338-FD583F4E52E9_1791250791230.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250813/lucromais/estoque/fotos/80C18EB0-1D65-4692-9260-943ACC6B5F8C_1791250813422.png"
+    ]
+   },
+   {
+    "id": 4956,
+    "cor": "Azul bebê",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1126,
+  "nome": "BERMUDA SUMMER",
+  "codigo": "7838763",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "Summer",
+  "preco": 99.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4953,
+    "cor": "Verde",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250699/lucromais/estoque/fotos/D0A1056F-B872-4514-AD49-00FA228FDAAA_1791250699741.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250713/lucromais/estoque/fotos/9E3BE0D0-E9D5-4A9B-8300-8F5236922255_1791250713408.png"
+    ]
+   },
+   {
+    "id": 4955,
+    "cor": "Verde",
+    "tamanho": "Gg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4952,
+    "cor": "Verde",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1125,
+  "nome": "BERMUDA SUMMER",
+  "codigo": "783873",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "Summer",
+  "preco": 99.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4950,
+    "cor": "Azul marinho",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4951,
+    "cor": "Azul marinho",
+    "tamanho": "Gg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4949,
+    "cor": "Azul marinho",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250603/lucromais/estoque/fotos/2DDBA7BD-1D9A-42B9-B268-5D2DC8C813AE_1791250603480.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250624/lucromais/estoque/fotos/0FEB3061-7EA3-4DAC-8FA7-BE588828AFC6_1791250624528.png"
+    ]
+   },
+   {
+    "id": 4948,
+    "cor": "Azul marinho",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1124,
+  "nome": "BERMUDA SUMMER",
+  "codigo": "7838747",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "Summer",
+  "preco": 99.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4945,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250496/lucromais/estoque/fotos/3CB0320A-136C-4BAA-AE55-6C7F0CC5B956_1791250496798.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250520/lucromais/estoque/fotos/63DE5F8C-E085-4957-AB51-B63F1353EFB7_1791250520458.png"
+    ]
+   },
+   {
+    "id": 4946,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4944,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4947,
+    "cor": "Preto",
+    "tamanho": "Gg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1122,
+  "nome": "BERMUDA JEANS JONNCRI",
+  "codigo": "7838872",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "JONNCRI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4937,
+    "cor": "Jeans",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4938,
+    "cor": "Jeans",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4940,
+    "cor": "Jeans",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4939,
+    "cor": "Jeans",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791228078/lucromais/estoque/fotos/CC499D75-2727-4EF2-B994-F0379BFFA8EA_1791228078770.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250854/lucromais/estoque/fotos/0D9F39FA-1167-440C-BB21-4E83E35473C7_1791250853999.png"
+    ]
+   },
+   {
+    "id": 4941,
+    "cor": "Jeans",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1121,
+  "nome": "BERMUDA JEANS JONNCRI",
+  "codigo": "7388873",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "JONNCRI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4933,
+    "cor": "Cinza estonado",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791227955/lucromais/estoque/fotos/C82E4113-E487-46CE-97C8-E6BE74133312_1791227955731.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250872/lucromais/estoque/fotos/58FDA380-AABA-4870-908E-AED0CFABB51C_1791250872734.png"
+    ]
+   },
+   {
+    "id": 4936,
+    "cor": "Cinza estonado",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4932,
+    "cor": "Cinza estonado",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4934,
+    "cor": "Cinza estonado",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4935,
+    "cor": "Cinza estonado",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1120,
+  "nome": "BERMUDA JEANS JONNCRI",
+  "codigo": "7838763",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "JONNCRI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4927,
+    "cor": "Cinza estonado",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791227490/lucromais/estoque/fotos/8CD15297-9036-4787-BDFF-3A56DA38E59F_1791227490415.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250895/lucromais/estoque/fotos/5F7A0837-42C7-4ECD-8820-67D9B848DBA0_1791250895010.png"
+    ]
+   },
+   {
+    "id": 4928,
+    "cor": "Cinza estonado",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4929,
+    "cor": "Cinza estonado",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4931,
+    "cor": "Cinza estonado",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4930,
+    "cor": "Cinza estonado",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1119,
+  "nome": "BERMUDA JEANS JONNCRI",
+  "codigo": "79397373",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "JONNCRI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4923,
+    "cor": "Cinza estonado",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791225805/lucromais/estoque/fotos/3FC2D3E4-873A-41EB-9D2E-C06F1916036D_1791225805764.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791250919/lucromais/estoque/fotos/CB550630-DECC-4A31-90FF-36124B452EFC_1791250919044.png"
+    ]
+   },
+   {
+    "id": 4925,
+    "cor": "Cinza estonado",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4924,
+    "cor": "Cinza estonado",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4922,
+    "cor": "Cinza estonado",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4926,
+    "cor": "Cinza estonado",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1118,
+  "nome": "BERMUDA JEANS JONNCRI",
+  "codigo": "78388262",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "JONNCRI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4918,
+    "cor": "Jean",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4920,
+    "cor": "Jeans",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4921,
+    "cor": "Jean",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4917,
+    "cor": "Jeans",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4919,
+    "cor": "Jeans",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791225609/lucromais/estoque/fotos/D9C7E552-FC37-4D9C-9C9E-810DE2C3A0E8_1791225609024.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791251060/lucromais/estoque/fotos/A1B29F9A-6E1F-441F-888F-62FC1D917612_1791251060824.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1109,
+  "nome": "CAMISA BS",
+  "codigo": "79397733",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Bs",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4900,
+    "cor": "Vermelha",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791077334/lucromais/estoque/fotos/49D07A7B-7319-49CC-844C-D78A641EE7E6_1791077334428.png"
+    ]
+   },
+   {
+    "id": 4899,
+    "cor": "Vermelha",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1108,
+  "nome": "CAMISA BLM",
+  "codigo": "73887363",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Bmn",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4896,
+    "cor": "Branca",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791077278/lucromais/estoque/fotos/13FED61E-E2BC-4013-BE1D-8DA1BA9EB656_1791077278623.png"
+    ]
+   },
+   {
+    "id": 4898,
+    "cor": "Branca",
+    "tamanho": "Xxg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4897,
+    "cor": "Branca",
+    "tamanho": "Gg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1107,
+  "nome": "CAMISA BLM",
+  "codigo": "729873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Bmn",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4893,
+    "cor": "Preto",
+    "tamanho": "Xxg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4891,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791077116/lucromais/estoque/fotos/B9388168-4CCF-4D97-8EB1-5C11A12E1538_1791077116357.png"
+    ]
+   },
+   {
+    "id": 4892,
+    "cor": "Preto",
+    "tamanho": "Gg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1106,
+  "nome": "CAMISA LV",
+  "codigo": "783872",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Lv",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4885,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791076978/lucromais/estoque/fotos/62720DFF-C4E5-4936-B21E-EE33662673E1_1791076978827.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1105,
+  "nome": "CAMISA HRM",
+  "codigo": "738883",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "HS",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4882,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791076891/lucromais/estoque/fotos/CBAAD6C4-BF55-476B-A459-603BC1531344_1791076891265.png"
+    ]
+   },
+   {
+    "id": 4881,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1104,
+  "nome": "CAMISA LV",
+  "codigo": "7893873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Lv",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4878,
+    "cor": "Lreto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4880,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4879,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791076823/lucromais/estoque/fotos/0BB72A47-949D-4C9A-9452-129745066874_1791076823047.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1103,
+  "nome": "CAMISA BLM",
+  "codigo": "7838773",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Bn",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4876,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4875,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791076752/lucromais/estoque/fotos/4540520C-CEAD-4ADD-A0F2-0677C6CEFD7F_1791076752249.png"
+    ]
+   },
+   {
+    "id": 4874,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1102,
+  "nome": "CAMISA LALA",
+  "codigo": "783873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Lala",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4872,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4870,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4871,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791076681/lucromais/estoque/fotos/346002C6-A0CF-487D-8361-EE300B3E1536_1791076681272.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1101,
+  "nome": "CAMISA BMN",
+  "codigo": "7388837",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Bn",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4868,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4867,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791076614/lucromais/estoque/fotos/616E5E38-24F3-448B-B63D-6A53C62C629D_1791076614539.png"
+    ]
+   },
+   {
+    "id": 4866,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1100,
+  "nome": "CAMISA LC",
+  "codigo": "73887733",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Lala",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4863,
+    "cor": "Branca",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072888/lucromais/estoque/fotos/FAB658F3-8791-40C6-9458-1C97F2A94A2B_1791072888557.png"
+    ]
+   },
+   {
+    "id": 4865,
+    "cor": "Branca",
+    "tamanho": "Gg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4862,
+    "cor": "Branca",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4864,
+    "cor": "Branca",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1099,
+  "nome": "CAMISA LC",
+  "codigo": "7887373",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Lala",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4859,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4860,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072781/lucromais/estoque/fotos/1A1A9E6B-B160-4832-9852-77CF5E156DB9_1791072781087.png"
+    ]
+   },
+   {
+    "id": 4861,
+    "cor": "Preto",
+    "tamanho": "Gg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1098,
+  "nome": "CAMISA BS",
+  "codigo": "73887733",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "BS",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4856,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072702/lucromais/estoque/fotos/996CCC0F-655B-4502-9D55-5B9562A2701D_1791072702717.png"
+    ]
+   },
+   {
+    "id": 4857,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1097,
+  "nome": "CAMISA EA7",
+  "codigo": "7838873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Ea7",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4851,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072634/lucromais/estoque/fotos/9F2134B0-CA62-4C71-B47A-FFFD214A512A_1791072634467.png"
+    ]
+   },
+   {
+    "id": 4852,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1096,
+  "nome": "CAMISA EA7",
+  "codigo": "783873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "AMN",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4849,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4848,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072539/lucromais/estoque/fotos/113E5CAC-7AB4-4208-A06D-3F4EC716F5EB_1791072539789.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1095,
+  "nome": "CAMISA LC",
+  "codigo": "7838873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Lala",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4843,
+    "cor": "Azul marinho",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4844,
+    "cor": "Azul marinho",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072463/lucromais/estoque/fotos/CD97D519-4003-43EF-B7D4-41C3093393BB_1791072463025.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1094,
+  "nome": "CAMISA VRC",
+  "codigo": "783874",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Vrc",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4841,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4840,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072372/lucromais/estoque/fotos/A7818F58-CD97-411C-86D9-FF5D7BA579E6_1791072372766.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1093,
+  "nome": "CAMISA D&G",
+  "codigo": "7839874",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "D&G",
+  "preco": 119.98,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4836,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072295/lucromais/estoque/fotos/EF314125-33E1-4BFD-A711-B3ECDB6A87AA_1791072295216.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1092,
+  "nome": "LV",
+  "codigo": "7838873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Lv",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4833,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4832,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072192/lucromais/estoque/fotos/CB2E10E8-537F-4D32-9AEE-64CB39F9B238_1791072192056.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1091,
+  "nome": "CAMISA LC",
+  "codigo": "78387737",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "Lala",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4829,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4828,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072124/lucromais/estoque/fotos/87E68689-5F67-484C-8806-810E435BD934_1791072124188.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1090,
+  "nome": "CAMISA CD",
+  "codigo": "7838773",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "CRD",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4822,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791072046/lucromais/estoque/fotos/C03EC19A-8D0A-45CF-8795-DC9CD07746A2_1791072046289.png"
+    ]
+   },
+   {
+    "id": 4823,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1089,
+  "nome": "CAMISA EA7",
+  "codigo": "7838863",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "AMN",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4818,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791071932/lucromais/estoque/fotos/2A638527-27EF-4BDC-A74F-6CADCA8B54DA_1791071932644.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1088,
+  "nome": "CAMISA CB",
+  "codigo": "7838773",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "CSA BLCA",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4815,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791071844/lucromais/estoque/fotos/A72252B6-52BF-4F6E-AB61-6B98AA49D002_1791071844216.png"
+    ]
+   },
+   {
+    "id": 4816,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4814,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1087,
+  "nome": "CAMISA EA7",
+  "codigo": "7839874",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "EA7",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4810,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4811,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791071710/lucromais/estoque/fotos/36A85FB3-2D43-4188-A867-19FF0033F0FF_1791071710271.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1086,
+  "nome": "CAMISA EA7",
+  "codigo": "7838864",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "AMNI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4807,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791071615/lucromais/estoque/fotos/1A726E13-A5D4-48B0-9E8A-A23FB990B466_1791071615350.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1085,
+  "nome": "CAMISA EA7",
+  "codigo": "7838873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "ARMNI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4802,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4804,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1084,
+  "nome": "CAMISA EA7",
+  "codigo": "78388746",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "ARMNI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4799,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791071455/lucromais/estoque/fotos/AE2EA283-7978-4086-AAE0-82E4DE7275CA_1791071455560.png"
+    ]
+   },
+   {
+    "id": 4800,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1083,
+  "nome": "CAMISA BLC",
+  "codigo": "7939774",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "BLNECGA",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4794,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4795,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791071351/lucromais/estoque/fotos/CAD1AF8F-95C6-41CA-81DD-B2AA0235CA28_1791071351266.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1082,
+  "nome": "CAMISA HB",
+  "codigo": "7839874",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "BSS",
+  "preco": 119.98,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4790,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4791,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791071268/lucromais/estoque/fotos/780B9101-DCCB-4D3C-91C3-6F2EB87E3961_1791071268049.png"
+    ]
+   },
+   {
+    "id": 4792,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1081,
+  "nome": "CAMISA BH",
+  "codigo": "7848874",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "BRBRRY",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4786,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791071195/lucromais/estoque/fotos/BDB20615-FED8-4093-991A-2154FDA224D0_1791071195635.png"
+    ]
+   },
+   {
+    "id": 4785,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4787,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1080,
+  "nome": "CAMISA LC",
+  "codigo": "7939873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LALA",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4782,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791071099/lucromais/estoque/fotos/A0A05228-CFC5-4B03-A2DC-1C6B2F86BFD1_1791071099273.png"
+    ]
+   },
+   {
+    "id": 4781,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1079,
+  "nome": "CAMISA LC",
+  "codigo": "7839874",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LALA",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4776,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791071014/lucromais/estoque/fotos/28D45609-1279-418C-BE01-86CF1FF05855_1791071013956.png"
+    ]
+   },
+   {
+    "id": 4778,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1078,
+  "nome": "CAMISA LV",
+  "codigo": "7838873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LV",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4775,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4774,
+    "cor": "M",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791070872/lucromais/estoque/fotos/19E58BF0-C004-48BA-BB7B-C76367E5BCF4_1791070872289.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1077,
+  "nome": "CAMISA EA7",
+  "codigo": "78838774",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "ARMNI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4773,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791070552/lucromais/estoque/fotos/3FC4FA6B-B6AF-45BB-9A78-3A5DED7A3AFC_1791070552667.png"
+    ]
+   },
+   {
+    "id": 4772,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1076,
+  "nome": "CAMISA RL",
+  "codigo": "7839873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "RLPH LREN",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4770,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791070472/lucromais/estoque/fotos/8E02BA0E-55E9-452D-BFE4-51DD7B5CCA8D_1791070472323.png"
+    ]
+   },
+   {
+    "id": 4771,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1075,
+  "nome": "LV",
+  "codigo": "7839763",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LV",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4767,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4769,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4768,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791070335/lucromais/estoque/fotos/81AEF3E2-95CD-4367-9D02-B1E554D5DBF2_1791070335788.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1074,
+  "nome": "CAMISA HB",
+  "codigo": "79884565",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "HGO BSS",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4765,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4766,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791070232/lucromais/estoque/fotos/C732560E-F6BE-4137-8291-B33A0BA09C47_1791070232086.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1073,
+  "nome": "CAMISA CK",
+  "codigo": "7839873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "CLVN KLN",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4764,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791070124/lucromais/estoque/fotos/7B1532DE-DEC7-4259-954C-4DDCD399D918_1791070124673.png"
+    ]
+   },
+   {
+    "id": 4763,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1072,
+  "nome": "CAMISA LV",
+  "codigo": "7883763",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LV",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4761,
+    "cor": "Pret",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791070072/lucromais/estoque/fotos/35C533FC-C98E-43A3-871E-ACCA306D942A_1791070072077.png"
+    ]
+   },
+   {
+    "id": 4762,
+    "cor": "Preto",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4760,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1071,
+  "nome": "CAMISA GC",
+  "codigo": "7838773",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "GCC",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4758,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791069999/lucromais/estoque/fotos/35B3B32A-23EE-495C-8BBB-82842E3F164F_1791069999182.png"
+    ]
+   },
+   {
+    "id": 4759,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 1070,
+  "nome": "CAMISA TH",
+  "codigo": "7883873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "TH",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4756,
+    "cor": "Preta",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4757,
+    "cor": "Preta",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791069793/lucromais/estoque/fotos/10598B15-3CC1-4070-A6B2-0956C3B9B5E1_1791069793802.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 1069,
+  "nome": "CAMISA TH",
+  "codigo": "78939837",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "TH",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4755,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4754,
+    "cor": "Preta",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1791069725/lucromais/estoque/fotos/35132971-1247-4538-A129-B748789B6618_1791069725229.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 920,
+  "nome": "CAMISA EA7",
+  "codigo": "7838873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "ARMNI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4255,
+    "cor": "Bege",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790817247/lucromais/estoque/fotos/519CA848-F8A3-40B0-8FF3-524974D9CE79_1790817247589.png"
+    ]
+   },
+   {
+    "id": 4256,
+    "cor": "Bege",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 919,
+  "nome": "CAMISA EA7",
+  "codigo": "78387763",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "ARMNI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4252,
+    "cor": "Verde militar",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790817163/lucromais/estoque/fotos/35296986-0A8E-436D-8817-C41EF9BAA6C1_1790817163902.png"
+    ]
+   },
+   {
+    "id": 4251,
+    "cor": "Verde militar",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 918,
+  "nome": "CAMISA EA7",
+  "codigo": "7883873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "ARMNI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4247,
+    "cor": "Off",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790817074/lucromais/estoque/fotos/5C2B3FE0-CBE9-426E-8569-67B492060EAC_1790817074142.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 917,
+  "nome": "CAMISA LC",
+  "codigo": "7838873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LALA",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4242,
+    "cor": "Bege",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4243,
+    "cor": "Bege",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790816936/lucromais/estoque/fotos/3F200B66-1C6D-4ACA-995E-4270662C74F8_1790816936372.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 916,
+  "nome": "CAMISA BS",
+  "codigo": "7883873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "BSS",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4239,
+    "cor": "Off",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790816855/lucromais/estoque/fotos/909E0190-B948-49FF-B983-2097D3245BC4_1790816855714.png"
+    ]
+   },
+   {
+    "id": 4238,
+    "cor": "Off",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 915,
+  "nome": "CAMISA LV",
+  "codigo": "7828873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LV",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4235,
+    "cor": "Branca",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790816719/lucromais/estoque/fotos/E58B2BD1-D286-41CD-B0DF-4A58E25A6372_1790816719364.png"
+    ]
+   },
+   {
+    "id": 4234,
+    "cor": "Branca",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 914,
+  "nome": "CAMISA TM",
+  "codigo": "7838873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "TH",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4229,
+    "cor": "Off",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790816511/lucromais/estoque/fotos/0DF798A2-70D9-4D05-B72A-1E7CDB33FF14_1790816511879.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 913,
+  "nome": "CAMISA GC",
+  "codigo": "8839873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "GCCI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4227,
+    "cor": "Off",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4226,
+    "cor": "Off",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790816425/lucromais/estoque/fotos/36918689-091B-45B4-91E3-A5919E973616_1790816424929.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 912,
+  "nome": "CAMISA LV",
+  "codigo": "7939973",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LV",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4224,
+    "cor": "Branca",
+    "tamanho": "Gg",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4223,
+    "cor": "Branca",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790816353/lucromais/estoque/fotos/4857A25C-CB8F-4739-843C-E88E19983E83_1790816353533.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 911,
+  "nome": "CAMISA DS",
+  "codigo": "7883873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "DSEL",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4219,
+    "cor": "Branca",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790816265/lucromais/estoque/fotos/2AFF6E6B-DD21-4BCB-BE66-0C477095E87A_1790816265037.png"
+    ]
+   },
+   {
+    "id": 4218,
+    "cor": "Branca",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 910,
+  "nome": "CAMISA TH",
+  "codigo": "7838873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "TH",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4215,
+    "cor": "Vermelha",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790816174/lucromais/estoque/fotos/1156F123-53E4-4414-AF69-2A07E968F610_1790816174000.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 909,
+  "nome": "CAMISA DS",
+  "codigo": "7838863",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "DSEL",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4211,
+    "cor": "Vermelha",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4210,
+    "cor": "Vermelha",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790816079/lucromais/estoque/fotos/083EFABC-6C57-4572-B656-3A5B0DBF5FC3_1790816079047.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 908,
+  "nome": "CAMISA LC",
+  "codigo": "7888736",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LALA",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4206,
+    "cor": "Bege",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4205,
+    "cor": "Bege",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790814932/lucromais/estoque/fotos/3DE90A05-7B62-4D0E-897C-AA96932FA73B_1790814932847.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 907,
+  "nome": "CAMISA LV",
+  "codigo": "7883873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LV",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4201,
+    "cor": "Vermelha",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4202,
+    "cor": "Vermelha",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790814860/lucromais/estoque/fotos/8FF32B15-4493-48B0-9D7F-D785E1D5AA43_1790814860720.png"
+    ]
+   },
+   {
+    "id": 4203,
+    "cor": "Vermelha",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 906,
+  "nome": "CAMISA HB",
+  "codigo": "7883773",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "HGO BSS",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4199,
+    "cor": "Vermelha",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4198,
+    "cor": "Vermelha",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790814779/lucromais/estoque/fotos/1EBE2C18-7A0E-49E3-A199-BAEBE08565B7_1790814779551.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 905,
+  "nome": "CAMISA EA7",
+  "codigo": "7828763",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "ARMNI",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4194,
+    "cor": "Vermelha",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790814679/lucromais/estoque/fotos/D5E30CC7-183A-4FD3-9B0B-A6F5EA1792F2_1790814679387.png",
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790814680/lucromais/estoque/fotos/1F9FCE94-41C7-440F-9EA7-C283309B7F0E_1790814680077.png"
+    ]
+   },
+   {
+    "id": 4195,
+    "cor": "Vermelha",
+    "tamanho": "Tamanho G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4193,
+    "cor": "Vermelha",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 847,
+  "nome": "BERMUDA JEANS UST",
+  "codigo": "77377736",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "UST",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4008,
+    "cor": "Jeans",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4013,
+    "cor": "Jeans",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4012,
+    "cor": "Jeans",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790741188/lucromais/estoque/fotos/D50B6B10-C751-449D-8DA9-37D057A294A1_1790741188318.png"
+    ]
+   },
+   {
+    "id": 4011,
+    "cor": "Jeans",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4009,
+    "cor": "Jeans",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 846,
+  "nome": "BERMUDA JEANS UST",
+  "codigo": "773863",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "UST",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4005,
+    "cor": "Cinza estonado",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4006,
+    "cor": "Cinza estonado",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4003,
+    "cor": "Cinza estonado",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4007,
+    "cor": "Cinza estonado",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4004,
+    "cor": "Cinza estonado",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790741082/lucromais/estoque/fotos/20E38852-94C7-4E5F-AF26-3E72837AF055_1790741082267.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 845,
+  "nome": "BERMUDA JEANS UST",
+  "codigo": "772763",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "UST",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 4001,
+    "cor": "Jeans claro estonado",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3997,
+    "cor": "Jeans claro estonado",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3998,
+    "cor": "Jeans claro estonado",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 4000,
+    "cor": "Jeans claro estonado",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3999,
+    "cor": "Jeans claro estonado",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790740953/lucromais/estoque/fotos/547030AD-CFB2-464B-A071-ACFB92139C04_1790740953234.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 844,
+  "nome": "BERMUDA JEANS ZRA",
+  "codigo": "772863",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "ZRA",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3993,
+    "cor": "Jeans",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 2,
+    "fotos": []
+   },
+   {
+    "id": 3991,
+    "cor": "Jeans",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3992,
+    "cor": "Jeans",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 2,
+    "fotos": []
+   },
+   {
+    "id": 3994,
+    "cor": "Jeans",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 2,
+    "fotos": []
+   },
+   {
+    "id": 3995,
+    "cor": "Jeans",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 2,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790740770/lucromais/estoque/fotos/9DAEF81C-B585-4875-ABF9-808F44E7849D_1790740770312.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 843,
+  "nome": "BERMUDA JEANS UST",
+  "codigo": "773763",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "UST",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3990,
+    "cor": "Cinza estonado",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3986,
+    "cor": "Cinza estonado",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3985,
+    "cor": "Cinza estonado",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3988,
+    "cor": "Cinza estonado",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3989,
+    "cor": "Cinza estonado",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790740625/lucromais/estoque/fotos/859A52F0-D197-4082-A3F6-C7C195686B5E_1790740625674.png"
+    ]
+   },
+   {
+    "id": 3987,
+    "cor": "Cinza estonado",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 842,
+  "nome": "BERMUDA JEANS UST",
+  "codigo": "773663",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "UST",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3984,
+    "cor": "Jeans",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3982,
+    "cor": "Jeans",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790740501/lucromais/estoque/fotos/632F04DA-B2E0-4B14-A8A3-83AE7F3B821F_1790740501284.png"
+    ]
+   },
+   {
+    "id": 3980,
+    "cor": "Jeans",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3981,
+    "cor": "Jeans",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3979,
+    "cor": "Jeans",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3983,
+    "cor": "Jeans",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 841,
+  "nome": "BERNUDA JEANS UST",
+  "codigo": "777363",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "UST",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3973,
+    "cor": "Jeans",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3977,
+    "cor": "Jeans",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3978,
+    "cor": "Jeans",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3976,
+    "cor": "Jeans",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790740400/lucromais/estoque/fotos/025289BC-6AA1-40C7-BF56-21C9BB9CEE41_1790740400809.png"
+    ]
+   },
+   {
+    "id": 3974,
+    "cor": "Jeans",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3975,
+    "cor": "Jeans",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 840,
+  "nome": "BERMUDA JEANS UST",
+  "codigo": "777363",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "UST",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3969,
+    "cor": "Jeans",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3970,
+    "cor": "Jeans",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790740300/lucromais/estoque/fotos/3560D79F-CBF5-485E-9524-7362236C636D_1790740300710.png"
+    ]
+   },
+   {
+    "id": 3967,
+    "cor": "Jeans",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3968,
+    "cor": "Jeans",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3971,
+    "cor": "Jeans",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3972,
+    "cor": "Jeans",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 839,
+  "nome": "BERMUDA JEANS UST",
+  "codigo": "6738863",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "UST",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3961,
+    "cor": "Jeans",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3964,
+    "cor": "Jeans",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3963,
+    "cor": "Jeans",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3962,
+    "cor": "Jeans",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790740066/lucromais/estoque/fotos/AB4212B8-8A24-4805-A2E3-471EA4BF1E4D_1790740066261.png"
+    ]
+   },
+   {
+    "id": 3965,
+    "cor": "Jeans",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 838,
+  "nome": "BERMUDA JEANS UST",
+  "codigo": "778836",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "UST",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3956,
+    "cor": "Jeans",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790739881/lucromais/estoque/fotos/F8E9266C-26A2-4355-A3BA-EDF6F0768184_1790739880998.png"
+    ]
+   },
+   {
+    "id": 3954,
+    "cor": "Jeans",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3955,
+    "cor": "Jeans",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3959,
+    "cor": "Jeans",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3957,
+    "cor": "Jeans",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3958,
+    "cor": "Jeans",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 837,
+  "nome": "BERMUDA JEANS UST",
+  "codigo": "888838883873",
+  "tipo": "Shorts",
+  "genero": "Masculino",
+  "marca": "UST",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3949,
+    "cor": "Jeans",
+    "tamanho": "38",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3950,
+    "cor": "Jeans",
+    "tamanho": "40",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3951,
+    "cor": "Jeans",
+    "tamanho": "42",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3953,
+    "cor": "Jeans",
+    "tamanho": "46",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3952,
+    "cor": "Jeans",
+    "tamanho": "44",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3948,
+    "cor": "Jeans",
+    "tamanho": "36",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790739105/lucromais/estoque/fotos/6448DD15-E819-49B0-A695-E1CF78187720_1790739105084.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 836,
+  "nome": "CAMISA EA7",
+  "codigo": "789399736",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "EA7",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3946,
+    "cor": "Vermelho",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3945,
+    "cor": "Vermelho",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790733205/lucromais/estoque/fotos/D0405F6A-6DD0-441B-9AB9-509C3542BB35_1790733205797.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 835,
+  "nome": "CAMISA CB",
+  "codigo": "789397363",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "CSA BLNC",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3940,
+    "cor": "Branca",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 834,
+  "nome": "CAMISA BS",
+  "codigo": "7893877363",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "BSS",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3937,
+    "cor": "Chumbo",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790732111/lucromais/estoque/fotos/8EE8106E-99D8-4722-8ECE-E80073192C4C_1790732111522.png"
+    ]
+   },
+   {
+    "id": 3938,
+    "cor": "Chumbo",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 833,
+  "nome": "CAMISA DS",
+  "codigo": "883973773",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "DSEL",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3934,
+    "cor": "Off",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790731807/lucromais/estoque/fotos/4A7ACE5C-C15E-4920-BCB3-254C45FA7885_1790731806988.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 832,
+  "nome": "CAMISA DS",
+  "codigo": "78838873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "DSEL",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3928,
+    "cor": "Vermelha",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790731642/lucromais/estoque/fotos/B7D471F2-FB86-4475-AA52-3E204133D3B7_1790731641964.png"
+    ]
+   },
+   {
+    "id": 3929,
+    "cor": "Vermelha",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 831,
+  "nome": "CAMISA GC",
+  "codigo": "899398746",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "GCC",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3925,
+    "cor": "Bege",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3924,
+    "cor": "Bege",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790731466/lucromais/estoque/fotos/5DEA4CCB-BC86-4AD3-BB73-5BD4F8ECE1AD_1790731466179.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 830,
+  "nome": "CAMISA TH",
+  "codigo": "78939873",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "TMMY HLFIGR",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3920,
+    "cor": "Vermelha",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790731359/lucromais/estoque/fotos/EE9AE58C-E96B-4743-8E44-1BF035AE599A_1790731359119.png"
+    ]
+   },
+   {
+    "id": 3921,
+    "cor": "Vermelha",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 829,
+  "nome": "CAMISA PRD",
+  "codigo": "788387646",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "PRD",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3917,
+    "cor": "Branca",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3916,
+    "cor": "Branca",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790731277/lucromais/estoque/fotos/43B58554-F0A8-473E-B586-B024329FD5B8_1790731277718.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 828,
+  "nome": "CAMISA LC",
+  "codigo": "683997466",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LALA",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3912,
+    "cor": "Vermelha",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790731159/lucromais/estoque/fotos/FEDBE451-5122-47C1-AF9A-61602D63FB6D_1790731159066.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 827,
+  "nome": "CAMISA BS",
+  "codigo": "6892973663",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "BSS",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3909,
+    "cor": "Bege",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3908,
+    "cor": "Bege",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790729699/lucromais/estoque/fotos/333F2C89-AC85-4156-8FBF-153FD30C0F7D_1790729699225.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 826,
+  "nome": "CAMISA DS",
+  "codigo": "68939873(",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "DSEL",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3884,
+    "cor": "Off",
+    "tamanho": "G",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790728920/lucromais/estoque/fotos/BD6FDB69-C0CA-4822-AB82-5C003B9EC375_1790728920514.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 825,
+  "nome": "CAMISA BRB",
+  "codigo": "788387736",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "BRBRRY",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3883,
+    "cor": "Verde militar",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790728746/lucromais/estoque/fotos/2F8BE19C-F7FC-4A1C-BA94-4E16F82A0550_1790728746111.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 824,
+  "nome": "CAMISA LV",
+  "codigo": "78838763",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LV",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3882,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3881,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790728563/lucromais/estoque/fotos/A82AF68B-D908-48AA-9597-9E3C45E57E36_1790728562817.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 823,
+  "nome": "CAMISA DS",
+  "codigo": "67388373663",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "DISL",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3880,
+    "cor": "Cinza",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790728312/lucromais/estoque/fotos/7CB4CA7F-7BF2-4361-A43C-DA9EE983F05C_1790728312761.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 822,
+  "nome": "CAMISA LC",
+  "codigo": "78378836782862",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "LALA",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3878,
+    "cor": "Verde militar",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790728113/lucromais/estoque/fotos/D978ABBF-32FE-4642-BF95-7822AAF231D5_1790728113517.png"
+    ]
+   },
+   {
+    "id": 3879,
+    "cor": "Verde militar",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   }
+  ]
+ },
+ {
+  "id": 821,
+  "nome": "CAMISA VRC",
+  "codigo": "83877737663",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "VRSAC",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3877,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790727388/lucromais/estoque/fotos/83EB69A5-4EE5-4F24-A0E8-F26AF286E3A4_1790727388272.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 820,
+  "nome": "CAMISA EA7",
+  "codigo": "773838827",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "ARMN",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3876,
+    "cor": "Bege",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790727134/lucromais/estoque/fotos/C0D1AB10-CAF8-4418-B1FC-163D821441D9_1790727134860.png"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 819,
+  "nome": "CAMISA TH",
+  "codigo": "7748882737",
+  "tipo": "Blusa",
+  "genero": "Masculino",
+  "marca": "TMM HILFGR",
+  "preco": 119.9,
+  "foto_url": "",
+  "variacoes": [
+   {
+    "id": 3875,
+    "cor": "Preto",
+    "tamanho": "M",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": []
+   },
+   {
+    "id": 3874,
+    "cor": "Preto",
+    "tamanho": "P",
+    "disponivel": true,
+    "estoque": 1,
+    "fotos": [
+     "https://res.cloudinary.com/dvlmzn7l0/image/upload/v1790726495/lucromais/estoque/fotos/FEB884F7-D278-45DB-9EB7-CBBF1A2316C6_1790726495597.png"
+    ]
+   }
+  ]
+ }
+]
